@@ -253,3 +253,10 @@ wedwards:
   country: nl
   companies:
     - cyberfusion
+Joris-KPN1136:
+  full_name: Joris de Mooij
+  rir_handle:
+    - JDM1-RIPE
+  country: nl
+  companies:
+    - kpn-nl
