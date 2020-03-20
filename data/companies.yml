@@ -167,3 +167,7 @@ cyberfusion:
   name: Cyberfusion
   asn: 204983
   site: https://cyberfusion.nl
+kpn-nl:
+  name: KPN B.V.
+  asn: 1136
+  site: https://www.kpn.com
